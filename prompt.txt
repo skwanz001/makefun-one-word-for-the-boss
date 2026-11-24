@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: One Word for the Boss (u-swift-badger-44-one-word-for-the-boss-6b48c735) — program menulis SATU kata ke /output/entry.txt, 1-30 karakter UTF-8, mendeskripsikan bos. Kata yang dipilih: "Shoulderreader" — bos yang berdiri di belakang kursi sambil membaca dari balik bahu. Dipilih lewat brainstorming karena entri flash AI-judged yang generik selalu kalah; kata ini satu kebiasaan spesifik yang langsung kebayang sosoknya, lucu sendiri, dan belum dipakai entrant lain (dicek terhadap 1.424 submission yang ada — Neckbreather, Hovercraft, Micromanagasaurus, Buzzwordsmith, dan kawan-kawan sudah diambil).
